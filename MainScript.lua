@@ -5,7 +5,7 @@ local function Notify(titulo, subtitulo, duracao)
     game:GetService("StarterGui"):SetCore("SendNotification", {
         Title = titulo,
         Text = subtitulo,
-        Icon = "rbxassetid://114664152093817",
+        Icon = "rbxassetid://107936474178778",
         Duration = duracao
     })
 end
